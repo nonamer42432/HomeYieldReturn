@@ -1,0 +1,15 @@
+D:\repos\WpfApp6\WpfApp6\bin\Debug\WpfApp6.exe.config
+D:\repos\WpfApp6\WpfApp6\bin\Debug\WpfApp6.exe
+D:\repos\WpfApp6\WpfApp6\bin\Debug\WpfApp6.pdb
+D:\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6.csproj.AssemblyReference.cache
+D:\repos\WpfApp6\WpfApp6\obj\Debug\MainWindow.g.cs
+D:\repos\WpfApp6\WpfApp6\obj\Debug\App.g.cs
+D:\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6_MarkupCompile.cache
+D:\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6_MarkupCompile.lref
+D:\repos\WpfApp6\WpfApp6\obj\Debug\MainWindow.baml
+D:\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6.g.resources
+D:\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6.Properties.Resources.resources
+D:\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6.csproj.GenerateResource.cache
+D:\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6.csproj.CoreCompileInputs.cache
+D:\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6.exe
+D:\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6.pdb
